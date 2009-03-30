@@ -1,0 +1,12 @@
+h1. Mephisto Full Archives (Tricky Edition)
+
+This is a pretty simple plugin that adds a full archives view to Mephisto's
+own archives. By "full archive" simply a list of all your blog posts is meant,
+most probably just titles grouped by month.
+
+You'll need to change your templates/archive.liquid template to use this. See
+lib/templates/archive.liquid.example for an example of an archive liquid
+template.
+
+Probably outdated:
+http://www.artweb-design.de/projects/mephisto-plugin-full-archives
